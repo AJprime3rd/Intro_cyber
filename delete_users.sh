@@ -14,3 +14,4 @@ done
 echo "Successfully deleted
  users"
 cat/etc/passwd
+clear

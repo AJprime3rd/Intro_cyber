@@ -12,3 +12,4 @@ do
 done
 
 echo "Successfully created users"
+create_users.sh
